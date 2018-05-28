@@ -5,7 +5,7 @@
 		<div class="test-trend-caption">
 			${%PerformanceTrend}
 			<g:graph id="dashboardGatling" seriesNames="${action.dashboardGraph.seriesNamesJSON}"
-			         data="${action.dashboardGraph.seriesJSON}" yAxisUnit="ms" height="400px" width="500px"/>
+			         data="${action.dashboardGraph.seriesJSON}" yAxisUnit="ms" height="400px" width="825px"/>
 		</div>
 
         <script>
